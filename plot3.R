@@ -1,4 +1,4 @@
-setwd("D://Online course/Coursera/4. Exploratory data analysis/Project 1/")
+setwd("D://Online course/Coursera/4. Exploratory data analysis/Project 1/ExData_Plotting1/")
 
 require(data.table)
 
